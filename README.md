@@ -1,6 +1,6 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides a minimal setup to get React working in Vite with HMR, some ESLint rules, husky, commitlint prevent to bad commit.
 
 Currently, two official plugins are available:
 
