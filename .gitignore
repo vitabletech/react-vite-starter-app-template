@@ -23,3 +23,19 @@ dist-ssr
 *.sln
 *.sw?
 package-lock.json
+yarn.lock
+
+# testing
+!/coverage
+/coverage/*
+!/coverage/clover.xml
+
+# production
+/build
+/.vscode
+
+# misc
+.DS_Store
+*.iml
+.env
+*.log
