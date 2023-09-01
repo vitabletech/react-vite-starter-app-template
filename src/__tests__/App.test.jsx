@@ -1,3 +1,4 @@
+import { test } from 'vitest';
 import { render, fireEvent } from '@testing-library/react';
 import App from '../App';
 

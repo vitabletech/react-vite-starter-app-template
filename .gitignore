@@ -28,7 +28,7 @@ yarn.lock
 # testing
 !/coverage
 /coverage/*
-!/coverage/clover.xml
+!/coverage/lcov.info
 
 # production
 /build
